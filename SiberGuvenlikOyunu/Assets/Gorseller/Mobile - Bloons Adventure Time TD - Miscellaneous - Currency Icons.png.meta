@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 4aa1a08497d95814a8cf8cdc0bd761b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2286103802243459333
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_0
+  - first:
+      213: -1072628682040855301
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_1
+  - first:
+      213: -8652083450010135301
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_2
+  - first:
+      213: -4329776239566671345
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_3
+  - first:
+      213: -5900603055237463686
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_4
+  - first:
+      213: -7460902243686526107
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_5
+  - first:
+      213: -3694447798939989887
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_6
+  - first:
+      213: -1175467174166173731
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_7
+  - first:
+      213: 8981878916204919460
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_8
+  - first:
+      213: 378097603420241572
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_9
+  - first:
+      213: 7164172639510182502
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_10
+  - first:
+      213: 8744635659843692232
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_11
+  - first:
+      213: 2069628722315675718
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_12
+  - first:
+      213: -4418917936327668510
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_13
+  - first:
+      213: -8045675034451057389
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_14
+  - first:
+      213: -545119737021802170
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_15
+  - first:
+      213: 3726594717242937816
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_16
+  - first:
+      213: 2292428485767020569
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_17
+  - first:
+      213: 2211975439631494029
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_18
+  - first:
+      213: 6206439547859094360
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_19
+  - first:
+      213: -3301939513963801093
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_20
+  - first:
+      213: 5704184590795598373
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_21
+  - first:
+      213: -7391586070066054108
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_22
+  - first:
+      213: -3362047856111569102
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_23
+  - first:
+      213: 4691151502099395554
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_24
+  - first:
+      213: -446437472661047341
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_25
+  - first:
+      213: 7518545722086827427
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_26
+  - first:
+      213: -1418487020043563160
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_27
+  - first:
+      213: 807594793368389656
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_28
+  - first:
+      213: -5622895825103255816
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_29
+  - first:
+      213: 1734536423203070417
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_30
+  - first:
+      213: -80070745095804424
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_31
+  - first:
+      213: -4494378254516854327
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_32
+  - first:
+      213: -927967137551274023
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_33
+  - first:
+      213: -9048057932677220520
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_34
+  - first:
+      213: -8570721577808680026
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_35
+  - first:
+      213: 6005340711349687449
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_36
+  - first:
+      213: 2174337353252319741
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_37
+  - first:
+      213: 6392072679435864103
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_38
+  - first:
+      213: 5953738488026067663
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_39
+  - first:
+      213: -1606758897245010793
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_40
+  - first:
+      213: -2156649629951494100
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_41
+  - first:
+      213: 7511576662301806685
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_42
+  - first:
+      213: 340486638748954214
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_43
+  - first:
+      213: -1119419712303923491
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_44
+  - first:
+      213: 5731003550228143584
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_45
+  - first:
+      213: -7807612853028764642
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_46
+  - first:
+      213: 5558085861256818591
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_47
+  - first:
+      213: 628764164240696243
+    second: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 686
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6db9344b02640e0800000000000000
+      internalID: -2286103802243459333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 687
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf43f0f85e14d11f0800000000000000
+      internalID: -1072628682040855301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 679
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf41c1361ff9de780800000000000000
+      internalID: -8652083450010135301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 682
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02b3b3437b89e3c0800000000000000
+      internalID: -4329776239566671345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 673
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a718cf3b8c8dc1ea0800000000000000
+      internalID: -5900603055237463686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 578
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563562d50fc857890800000000000000
+      internalID: -7460902243686526107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 565
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18845f60d4faabcc0800000000000000
+      internalID: -3694447798939989887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 569
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd761be35d6efafe0800000000000000
+      internalID: -1175467174166173731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 571
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaf6f7494b06ac70800000000000000
+      internalID: 8981878916204919460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 567
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae3a4e54c54f3500800000000000000
+      internalID: 378097603420241572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 453
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ab397ee014c6360800000000000000
+      internalID: 7164172639510182502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 452
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c662333dcf2b5970800000000000000
+      internalID: 8744635659843692232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 450
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648429a8b5cc8bc10800000000000000
+      internalID: 2069628722315675718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_13
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 453
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec4691ac89dca2c0800000000000000
+      internalID: -4418917936327668510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 455
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315e0591f25085090800000000000000
+      internalID: -8045675034451057389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 337
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649d2c2cc785f68f0800000000000000
+      internalID: -545119737021802170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 345
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1dc17a62687b330800000000000000
+      internalID: 3726594717242937816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 351
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910412fdf8750df10800000000000000
+      internalID: 2292428485767020569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 351
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8baf1b51f382be10800000000000000
+      internalID: 2211975439631494029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 351
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bc31ab2e3b12650800000000000000
+      internalID: 6206439547859094360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 237
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf59c58a1872d22d0800000000000000
+      internalID: -3301939513963801093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 237
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ae0abc9a5592f40800000000000000
+      internalID: 5704184590795598373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 224
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cbcfea1afcb6990800000000000000
+      internalID: -7391586070066054108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 229
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2373b9aa94b9751d0800000000000000
+      internalID: -3362047856111569102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_24
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 235
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3bc26bf615a1140800000000000000
+      internalID: 4691151502099395554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 118
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d77d93eb7fedc9f0800000000000000
+      internalID: -446437472661047341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 119
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5a480df7d375860800000000000000
+      internalID: 7518545722086827427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 119
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f0dcb1295805ce0800000000000000
+      internalID: -1418487020043563160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 119
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8188d2d8f27253b00800000000000000
+      internalID: 807594793368389656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_29
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 119
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f681b7d90677f1b0800000000000000
+      internalID: -5622895825103255816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1eefadfaf421810800000000000000
+      internalID: 1734536423203070417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9e9a1e41883eef0800000000000000
+      internalID: -80070745095804424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 52
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1684d2ac2c0a1c0800000000000000
+      internalID: -4494378254516854327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df25031ec23f13f0800000000000000
+      internalID: -927967137551274023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 52
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8577e97bf37de6280800000000000000
+      internalID: -9048057932677220520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 52
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab20f5722eae0980800000000000000
+      internalID: -8570721577808680026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_36
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 52
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994903f2f81475350800000000000000
+      internalID: 6005340711349687449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_37
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1b77a7d4ccc2e10800000000000000
+      internalID: 2174337353252319741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_38
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728014c3c3435b850800000000000000
+      internalID: 6392072679435864103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_39
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 52
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc27d505c9def9250800000000000000
+      internalID: 5953738488026067663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_40
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 52
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7944302cb45a3b9e0800000000000000
+      internalID: -1606758897245010793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_41
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 46
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2873c5869a0212e0800000000000000
+      internalID: -2156649629951494100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_42
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 44
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d501d932d2b7e3860800000000000000
+      internalID: 7511576662301806685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_43
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 44
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ee5614bc6a9b400800000000000000
+      internalID: 340486638748954214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_44
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 52
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddefd8dd3b50770f0800000000000000
+      internalID: -1119419712303923491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 44
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edd9d16d5d988f40800000000000000
+      internalID: 5731003550228143584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_46
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 44
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1442770a79c5a390800000000000000
+      internalID: -7807612853028764642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_47
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 44
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f655f84a9422d40800000000000000
+      internalID: 5558085861256818591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 44
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3ef011da1d9b800800000000000000
+      internalID: 628764164240696243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_0: -2286103802243459333
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_1: -1072628682040855301
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_10: 7164172639510182502
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_11: 8744635659843692232
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_12: 2069628722315675718
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_13: -4418917936327668510
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_14: -8045675034451057389
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_15: -545119737021802170
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_16: 3726594717242937816
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_17: 2292428485767020569
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_18: 2211975439631494029
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_19: 6206439547859094360
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_2: -8652083450010135301
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_20: -3301939513963801093
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_21: 5704184590795598373
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_22: -7391586070066054108
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_23: -3362047856111569102
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_24: 4691151502099395554
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_25: -446437472661047341
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_26: 7518545722086827427
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_27: -1418487020043563160
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_28: 807594793368389656
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_29: -5622895825103255816
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_3: -4329776239566671345
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_30: 1734536423203070417
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_31: -80070745095804424
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_32: -4494378254516854327
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_33: -927967137551274023
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_34: -9048057932677220520
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_35: -8570721577808680026
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_36: 6005340711349687449
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_37: 2174337353252319741
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_38: 6392072679435864103
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_39: 5953738488026067663
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_4: -5900603055237463686
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_40: -1606758897245010793
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_41: -2156649629951494100
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_42: 7511576662301806685
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_43: 340486638748954214
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_44: -1119419712303923491
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_45: 5731003550228143584
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_46: -7807612853028764642
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_47: 5558085861256818591
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_48: 628764164240696243
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_5: -7460902243686526107
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_6: -3694447798939989887
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_7: -1175467174166173731
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_8: 8981878916204919460
+      Mobile - Bloons Adventure Time TD - Miscellaneous - Currency Icons_9: 378097603420241572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

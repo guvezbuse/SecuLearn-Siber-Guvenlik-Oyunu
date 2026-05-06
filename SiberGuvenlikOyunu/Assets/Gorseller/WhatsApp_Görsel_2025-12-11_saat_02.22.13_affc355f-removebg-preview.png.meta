@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: e527b35532223654b83fc0838ec6aee6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7517648741128106065
+    second: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_0"
+  - first:
+      213: -8259316031074232788
+    second: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_1"
+  - first:
+      213: -4661471990340374783
+    second: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_2"
+  - first:
+      213: 6689117140121905908
+    second: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_3"
+  - first:
+      213: 1766635476278636965
+    second: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_4"
+  - first:
+      213: 9014022151567303560
+    second: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_5"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_0"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 448
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1507a1923bd045860800000000000000
+      internalID: 7517648741128106065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_1"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 448
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26912854d3016d80800000000000000
+      internalID: -8259316031074232788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_2"
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 443
+        width: 95
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f245d1cef1f4fb0800000000000000
+      internalID: -4661471990340374783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_3"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 150
+        width: 101
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa61f5399484dc50800000000000000
+      internalID: 6689117140121905908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_4"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 150
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1f03b0b99548810800000000000000
+      internalID: 1766635476278636965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_5"
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 151
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883eba5736d381d70800000000000000
+      internalID: 9014022151567303560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6c3a979d5a4b539428e45de8a7494090
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_0": 7517648741128106065
+      "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_1": -8259316031074232788
+      "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_2": -4661471990340374783
+      "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_3": 6689117140121905908
+      "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_4": 1766635476278636965
+      "WhatsApp_G\xF6rsel_2025-12-11_saat_02.22.13_affc355f-removebg-preview_5": 9014022151567303560
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
