@@ -1,5 +1,6 @@
-*.shader linguist-documentation
-*.cginc linguist-documentation
-*.mat linguist-documentation
-*.unity linguist-documentation
+*.shader linguist-vendored
+*.hlsl linguist-vendored
+*.cginc linguist-vendored
+*.mat linguist-vendored
+*.unity linguist-vendored
 *.cs linguist-detectable=true
