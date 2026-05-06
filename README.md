@@ -27,4 +27,32 @@ Bu proje sadece siber güvenliği öğretmekle kalmaz, aynı zamanda arka planda
 * Thread (İş Parçacığı) Yönetimi: Veritabanı sorguları sırasında oyunun donmasını engellemek için `Async/Task` yapısı kullanılarak asenkron veri çekme işlemi yapılmıştır.
 * Optimizasyon: Oyun içi zaman kontrolü (`Time.timeScale`) ve etkili bellek yönetimi uygulanmıştır.
 
-Bu proje, Siber Güvenliğe Giriş dersi dönem projesi olarak Buse Güvez tarafından tasarlanmış ve kodlanmıştır.
+📸 Ekran Görüntüleri
+<table align="center">
+  <tr>
+    <td><img src="screenshots/01.jpeg" width="220"></td>
+    <td><img src="screenshots/02.jpeg" width="220"></td>
+    <td><img src="screenshots/03.jpeg" width="220"></td>
+   <td><img src="screenshots/04.jpeg" width="220"></td>
+  </tr>
+  <tr>
+   <td><img src="screenshots/05.jpeg" width="220"></td>
+    <td><img src="screenshots/06.jpeg" width="220"></td>
+    <td><img src="screenshots/07.jpeg" width="220"></td>
+    <td><img src="screenshots/08.jpeg" width="220"></td>
+  </tr>
+ <tr>
+   <td><img src="screenshots/09.jpeg" width="220"></td>
+    <td><img src="screenshots/10.jpeg" width="220"></td>
+    <td><img src="screenshots/11.jpeg" width="220"></td>
+    <td><img src="screenshots/12.jpeg" width="220"></td>
+  </tr>
+ <tr>
+   <td><img src="screenshots/13.jpeg" width="350"></td>
+    <td><img src="screenshots/14.jpeg" width="350"></td>
+    <td><img src="screenshots/15.jpeg" width="350"></td>
+     <td><img src="screenshots/16.jpeg" width="350"></td>
+    
+  </tr>
+ 
+</table>
